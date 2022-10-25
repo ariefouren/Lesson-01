@@ -3,7 +3,7 @@
 using namespace std; 
 
 int main()
-{
+{  
     string firstName, lastName, fullName;
     
     cout << "Enter your first name: ";
