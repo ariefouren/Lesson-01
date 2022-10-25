@@ -2,7 +2,7 @@
 #include <string>       // using the string class
 using namespace std; 
 
-int main()
+int main()  
 {  
     string firstName, lastName, fullName;
     
